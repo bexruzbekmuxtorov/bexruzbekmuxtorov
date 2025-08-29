@@ -63,7 +63,7 @@
 - [🌐 KindCare](https://github.com/BehruzbekMuxtorov/KindCare) – Digital communication system for kindergartens  
 - [📱 Android Mini Projects](#) – Creative Android apps  
 - [⚙️ Django Backend Practice](#) – My backend journey  
-
+- [🛠️ Django Projects](#) – Web apps built with Django 
 ---
 
 ### 🌠 Let’s Connect
