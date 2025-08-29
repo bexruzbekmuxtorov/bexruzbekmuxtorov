@@ -86,6 +86,20 @@
 </p>
 
 
+<!-- Profil Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Behruzbek%20Muxtorov&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Python+Developer;Android+Learner;Figma+Designer;HTML+Coder" alt="Typing SVG" />
+</p>
+
+<!-- Stars Animation (SVG) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BehruzbekMuxtorov/BehruzbekMuxtorov/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 
 
