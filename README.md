@@ -42,12 +42,6 @@
 
 
 
-<!-- Wave Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=70&section=footer" />
-</p>
-
-
 
 ---
 
@@ -65,8 +59,8 @@
 
 ### 📊 GitHub Universe
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BehruzbekMuxtorov&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BehruzbekMuxtorov&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BexruzbekMuxtorov&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BexruzbekMuxtorov&theme=radical" height="180px"/>
 </p>
 
 
