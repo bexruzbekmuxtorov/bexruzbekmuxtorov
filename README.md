@@ -44,6 +44,25 @@
 - 📫 How to reach me **bexruzbek131@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+<!-- Kosmos Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/space.gif" width="100%" height="250px"/>
+</p>
+<!-- Kosmos Fon -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/26/26f9f2e52a8e5d660f1e4d51bba63c02.gif" width="100%" height="250px"/>
+</p>
+
+<!-- Profil Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Behruzbek%20Muxtorov&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Python+Developer;Android+Learner;Figma+Designer;HTML+Coder;Future+AI+Engineer" alt="Typing SVG" />
+</p>
+
 
 
 
