@@ -12,6 +12,10 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/6e/6e53b4c81da15e5d85f1e4b74d0e8d57.gif" width="100%" height="200">
+</p>
+
 
 
 ### 🌌 About Me
