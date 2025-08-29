@@ -1,22 +1,3 @@
-<!-- Kosmos Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/space.gif" width="100%" height="250px"/>
-</p>
-<!-- Kosmos Fon -->
-<p align="center">
-  <img src="https://i.gifer.com/origin/26/26f9f2e52a8e5d660f1e4d51bba63c02.gif" width="100%" height="250px"/>
-</p>
-
-<!-- Profil Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Behruzbek%20Muxtorov&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Python+Developer;Android+Learner;Figma+Designer;HTML+Coder;Future+AI+Engineer" alt="Typing SVG" />
-</p>
-
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Behruzbek%20Muxtorov%20🔥&width=800&height=200" />
@@ -84,20 +65,6 @@
 </p>
 
 
-
-
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
 
 ---
 
