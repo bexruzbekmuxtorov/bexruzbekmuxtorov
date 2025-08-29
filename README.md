@@ -49,6 +49,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/Bexruzbek/Behruzbek/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 
 ### 🐍 Contribution Snake
 <p align="center">
