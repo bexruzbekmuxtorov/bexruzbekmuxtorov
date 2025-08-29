@@ -49,10 +49,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/bexruzbekmuxtorov/bexruzbekmuxtorov/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 
 
 
