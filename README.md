@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Behruzbek Muxtorov</h1>
-<h3 align="center">A passionate Python & Django Developer from Uzbekistan</h3>
-
----
-
-### 🌟 About Me
-- 🎓 First-year student at **Fergana Polytechnic Institute**  
-- 💻 Interested in **Backend Development (Python, Django)**  
-- 📱 Love building **Android apps** & exploring **UI/UX design**  
-- 🚀 Currently working on **KindCare Project**  
-- 🎯 Goal: Become a professional backend engineer  
-
----
-
-### 🛠️ Tech Stack
+<h1 align="center">✨ Welcome to My Universe ✨</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+</p>
+
+---
+
+### 🌌 About Me
+- 👨‍💻 I’m **Behruzbek Muxtorov**, a passionate Python & Django Developer  
+- 🎓 Student at **Fergana Polytechnic Institute**  
+- 🚀 Exploring **Backend Development | Android Apps | UI/UX Design**  
+- 🌍 Dream: **Build projects that impact the world**  
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,23 +25,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Universe
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BehruzbekMuxtorov&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BehruzbekMuxtorov&theme=tokyonight" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BehruzbekMuxtorov&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BehruzbekMuxtorov&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BehruzbekMuxtorov&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 📌 Pinned Projects
-- [🌐 KindCare](https://github.com/BehruzbekMuxtorov/KindCare) – Digital communication system for kindergartens  
-- [📱 Android Apps](#) – My Android mini projects  
-- [⚙️ Django Practice](#) – Backend learning journey  
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
-### 📫 Connect with me
+### 🚀 Pinned Projects
+- [🌐 KindCare](https://github.com/BehruzbekMuxtorov/KindCare) – Digital communication system for kindergartens  
+- [📱 Android Mini Projects](#) – Creative Android apps  
+- [⚙️ Django Backend Practice](#) – My backend journey  
+
+---
+
+### 🌠 Let’s Connect
 <p align="center">
   <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -49,4 +56,4 @@
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+<h3 align="center">✨ Keep Coding, Keep Exploring ✨</h3>
