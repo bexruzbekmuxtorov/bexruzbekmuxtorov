@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:11998e,100:38ef7d&height=250&section=header&text=Behruzbek%20Muxtorov&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:11998e,100:38ef7d&height=250&section=header&text=Bexruzbek%20Muxtorov&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 
@@ -68,7 +68,7 @@
 ---
 
 ### 🚀 Pinned Projects
-- [🌐 KindCare](https://github.com/BehruzbekMuxtorov/KindCare) – Digital communication system for kindergartens  
+- [🌐 KindCare](https://github.com/BexruzbekMuxtorov/KindCare) – Digital communication system for kindergartens  
 - [📱 Android Mini Projects](#) – Creative Android apps  
 - [⚙️ Django Backend Practice](#) – My backend journey  
 - [🛠️ Django Projects](#) – Web apps built with Django 
