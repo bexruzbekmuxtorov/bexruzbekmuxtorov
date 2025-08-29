@@ -48,10 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BehruzbekMuxtorov&theme=radical" height="180px"/>
 </p>
 
----
-<p align="center">
-  <img src="https://github.com/bexruzbekmuxtorov/bexruzbekmuxtorov/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 
 
