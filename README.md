@@ -40,23 +40,7 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,100:302b63&height=220&section=header&text=Bexruzbek%20Muxtorov&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- Neon Typing Animation (Tech Focus) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=760&lines=Python+%E2%9D%A4%EF%B8%8F;Android+%F0%9F%9B%B0;Figma+%F0%9F%93%8A;HTML+%26+CSS+%3C%2F%3E" alt="Typing SVG" />
-</p>
 
-<!-- Tech Badges (centered) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<!-- Small subtitle / tagline -->
-<p align="center">
-  <em>Backend & Android enthusiast • UI/UX explorer • Building KindCare</em>
-</p>
 
 <!-- Wave Divider -->
 <p align="center">
@@ -86,20 +70,6 @@
 </p>
 
 
-<!-- Profil Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Behruzbek%20Muxtorov&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Python+Developer;Android+Learner;Figma+Designer;HTML+Coder" alt="Typing SVG" />
-</p>
-
-<!-- Stars Animation (SVG) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BehruzbekMuxtorov/BehruzbekMuxtorov/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 
 
