@@ -37,7 +37,7 @@
 
 <!-- Creative Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,100:302b63&height=220&section=header&text=Behruzbek%20Muxtorov&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,100:302b63&height=220&section=header&text=Bexruzbek%20Muxtorov&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- Neon Typing Animation (Tech Focus) -->
