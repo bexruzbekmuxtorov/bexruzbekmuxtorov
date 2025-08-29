@@ -12,7 +12,23 @@
 - 👨‍💻 I’m **Behruzbek Muxtorov**, a passionate Python & Django Developer  
 - 🎓 Student at **Fergana Polytechnic Institute**  
 - 🚀 Exploring **Backend Development | Android Apps | UI/UX Design**  
-- 🌍 Dream: **Build projects that impact the world**  
+- 🌍 Dream: **Build projects that impact the world** 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:11998e,100:38ef7d&height=250&section=header&text=Behruzbek%20Muxtorov&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=💻+Backend+Developer;🔐+Cybersecurity+Explorer;🚀+AI+and+Django+Learner;🌍+Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=100&section=footer" />
+</p>
+ 
 
 
 - 📫 How to reach me **bexruzbek131@gmail.com**
