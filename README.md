@@ -35,13 +35,34 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bexruzbek06_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bexruzbek06_01" height="30" width="40" /></a>
+<!-- Creative Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,100:302b63&height=220&section=header&text=Behruzbek%20Muxtorov&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Neon Typing Animation (Tech Focus) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=760&lines=Python+%E2%9D%A4%EF%B8%8F;Android+%F0%9F%9B%B0;Figma+%F0%9F%93%8A;HTML+%26+CSS+%3C%2F%3E" alt="Typing SVG" />
+</p>
+
+<!-- Tech Badges (centered) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<!-- Small subtitle / tagline -->
+<p align="center">
+  <em>Backend & Android enthusiast • UI/UX explorer • Building KindCare</em>
+</p>
+
+<!-- Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=70&section=footer" />
+</p>
+
 
 
 ---
