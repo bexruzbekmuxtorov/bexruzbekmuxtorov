@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Behruzbek%20Muxtorov%20🔥&width=800&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Bexruzbek&text2=Muxtorov%20🔥&width=800&height=200" />
 </p>
+
 
 <h1 align="center">✨ Welcome to My Universe ✨</h1>
 <p align="center">
