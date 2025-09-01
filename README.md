@@ -2,18 +2,25 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bexruzbek&text2=Muxtorov%20🔥&width=800&height=200" />
 </p>
 ```python
-# 🚀 About Me
-bexruzbek = {
-    "fullname": "✨ Bexruzbek Muxtorov ✨",
-    "age": 18,
-    "from": "🌍 Andijon, O'zbekiston",
-    "university": "🎓 FarPI (Farg'ona Politexnika Instituti)",
-    "year": "📘 1st year student",
-    "interests": ["💻 Backend Development", "📱 Android", "🎨 Design", "🤖 AI"],
-    "goals": "🏆 Become a strong backend developer (Python/Django)",
-    "hobbies": ["🥊 Boxing", "🎮 Gaming (CoD, Clash of Clans)"]
-}
+class BexruzbekMuxtorov:
+    def __init__(self):
+        self.name = "Bexruzbek Muxtorov"
+        self.role = "Backend Developer (in progress 🚀)"
+        self.location = "Andijon, Uzbekistan 🇺🇿"
+        self.university = "FarPI (Farg'ona Politexnika Instituti)"
+        self.year = "1st year student 🎓"
+        
+        self.languages = ["Python 🐍", "Java ☕", "JavaScript ⚡"]
+        self.learning = ["Django 🌐", "REST API 🔗", "AI 🤖", "Android 📱"]
+        self.interests = ["Backend Development", "Design 🎨", "System Architecture"]
+        self.hobbies = ["🥊 Boxing", "🎮 Gaming (CoD, Clash of Clans)"]
 
+    def say_hello(self):
+        print("Thanks for visiting my profile! Let's connect 🤝")
+
+        
+dev = BexruzbekMuxtorov()
+dev.say_hello()
 
 
 <h1 align="center">✨ Welcome to My Universe ✨</h1>
