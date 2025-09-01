@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bexruzbek&text2=Muxtorov%20🔥&width=800&height=200" />
 </p>
+## 👨‍💻 About Me
+
+I'm a passionate developer 🔥
+
 ```python
 class BexruzbekMuxtorov:
     def __init__(self):
@@ -9,7 +13,7 @@ class BexruzbekMuxtorov:
         self.location = "Andijon, Uzbekistan 🇺🇿"
         self.university = "FarPI (Farg'ona Politexnika Instituti)"
         self.year = "1st year student 🎓"
-        
+
         self.languages = ["Python 🐍", "Java ☕", "JavaScript ⚡"]
         self.learning = ["Django 🌐", "REST API 🔗", "AI 🤖", "Android 📱"]
         self.interests = ["Backend Development", "Design 🎨", "System Architecture"]
@@ -18,7 +22,7 @@ class BexruzbekMuxtorov:
     def say_hello(self):
         print("Thanks for visiting my profile! Let's connect 🤝")
 
-        
+
 dev = BexruzbekMuxtorov()
 dev.say_hello()
 
