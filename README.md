@@ -25,7 +25,7 @@ class BexruzbekMuxtorov:
 
 dev = BexruzbekMuxtorov()
 dev.say_hello()
-
+```
 
 <h1 align="center">✨ Welcome to My Universe ✨</h1>
 <p align="center">
