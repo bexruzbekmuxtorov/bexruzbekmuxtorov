@@ -1,6 +1,18 @@
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bexruzbek&text2=Muxtorov%20🔥&width=800&height=200" />
 </p>
+```python
+# 🚀 About Me
+bexruzbek = {
+    "fullname": "✨ Bexruzbek Muxtorov ✨",
+    "age": 18,
+    "from": "🌍 Andijon, O'zbekiston",
+    "university": "🎓 FarPI (Farg'ona Politexnika Instituti)",
+    "year": "📘 1st year student",
+    "interests": ["💻 Backend Development", "📱 Android", "🎨 Design", "🤖 AI"],
+    "goals": "🏆 Become a strong backend developer (Python/Django)",
+    "hobbies": ["🥊 Boxing", "🎮 Gaming (CoD, Clash of Clans)"]
+}
 
 
 
