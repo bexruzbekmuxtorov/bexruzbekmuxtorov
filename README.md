@@ -44,7 +44,7 @@ dev.say_hello()
 
 
 ### 🌌 About Me
-- 👨‍💻 I’m **Behruzbek Muxtorov**, a passionate Python & Django Developer  
+- 👨‍💻 I’m **Bexruzbek Muxtorov**, a passionate Python & Django Developer  
 - 🎓 Student at **Fergana Polytechnic Institute**  
 - 🚀 Exploring **Backend Development | Android Apps | UI/UX Design**  
 - 🌍 Dream: **Build projects that impact the world** 
