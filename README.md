@@ -4,6 +4,8 @@
 ## 👨‍💻 About Me
 
 I'm a passionate developer 🔥
+![Bexruzbek Banner](assets/animated-banner.svg)
+
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -93,7 +95,7 @@ I'm a passionate developer 🔥
     <animate attributeName="visibility" values="hidden;hidden;visible" dur="14s" repeatCount="indefinite"/>
   </rect>
 </svg>
-![Bexruzbek Banner](assets/animated-banner.svg)
+
 
 
 ```python
