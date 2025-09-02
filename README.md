@@ -1,10 +1,12 @@
+![Bexruzbek Banner](assets/animated-banner.svg)
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Bexruzbek&text2=Muxtorov%20🔥&width=800&height=200" />
 </p>
 ## 👨‍💻 About Me
 
 I'm a passionate developer 🔥
-![Bexruzbek Banner](assets/animated-banner.svg)
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
