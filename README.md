@@ -49,7 +49,7 @@ dev.say_hello()
 
 ### 🌌 About Me
 - 👨‍💻 I’m **Bexruzbek Muxtorov**, a passionate Python & Django Developer  
-- 🎓 Student at **Fergana Polytechnic Institute**  
+- 🎓 Student at **FDTU**  
 - 🚀 Exploring **Backend Development | Android Apps | UI/UX Design**  
 - 🌍 Dream: **Build projects that impact the world** 
 
