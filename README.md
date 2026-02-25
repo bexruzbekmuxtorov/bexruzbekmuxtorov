@@ -15,8 +15,8 @@ class BexruzbekMuxtorov:
         self.name = "Bexruzbek Muxtorov"
         self.role = "Backend Developer (in progress 🚀)"
         self.location = "Andijon, Uzbekistan 🇺🇿"
-        self.university = "FarPI (Farg'ona Politexnika Instituti)"
-        self.year = "1st year student 🎓"
+        self.university = "FDTU (Farg'ona Davlat Texnika Universiteti)"
+        self.year = "2st year student 🎓"
 
         self.languages = ["Python 🐍", "Java ☕", "JavaScript ⚡"]
         self.learning = ["Django 🌐", "REST API 🔗", "AI 🤖", "Android 📱"]
